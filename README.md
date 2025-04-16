@@ -1,7 +1,7 @@
 # ProyectoIntegrador-E4
 Repo para proyecto integrador Equipo 4
 
-1 - git clone https://github.com/andrespbt/ProyectoIntegrador-E4.git
+1 - git clone https://github.com/delfinaferaud/proyecto-integrador-DH.git
 
 2 - cd ProyectoIntegrador-E4
 
